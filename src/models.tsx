@@ -29,6 +29,9 @@ export interface Experience {
     bullets: string[];
 }
 
+export interface Pfs {
+   bullets: string[];
+}
 export interface Resume {
     info: ResumeInfo;
     skills: Skill[];

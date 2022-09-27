@@ -1,6 +1,7 @@
 import React from 'react';
 
 import EducationSection from './components/education';
+import ProfessionalSummarySection from './components/pfs';
 import ExperienceSection from './components/experience';
 import Header from './components/header';
 import SkillsSection from './components/skills';
@@ -47,6 +48,7 @@ function App() {
       <div className="Resume">
         <Header resumeInfo={ResumeData.info} />
         <main>
+          <ProfessionalSummarySection pfs={ResumeData.pfs} />
           <ExperienceSection experiences={ResumeData.experience} />
           <div className="sidebar">
             <SkillsSection skills={ResumeData.skills} />
