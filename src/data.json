@@ -8,6 +8,10 @@
                 "url": "https://www.linkedin.com/in/raghul22/"
             },
             {
+                "name": "Github",
+                "url": "https://github.com/raghulraj"
+            },
+            {
                 "name": "Twitter",
                 "url": "https://twitter.com/raghul22"
             }
@@ -34,10 +38,11 @@
             "startDate": "August 2018",
             "endDate": "June 2022",
             "bullets": [
+                "Develop automation frameworks for UI automation using Protractor, Testcafe, Selenium, TestNG",
+                "Develop automation frameworks for testing Microservices using Rest Assured",
 		"Build productivity tools to improve the team performance.",
-                "Develop automation frameworks for UI automation using Protractor, Selenium, TestNG",
-		"Develop automation frameworks for testing Microservices using Rest Assured",
-		"Write performance using Jmeter and K6"
+		"Write Performance tests using Jmeter and K6.",
+                "Write Security tests using Zaproxy."
 		
             ]
         },
