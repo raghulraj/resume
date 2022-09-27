@@ -1,0 +1,98 @@
+{
+    "info": {
+        "name": "Raghul Raj Valuparambil",
+        "email": "raghulraj@gmail.com",
+        "links": [
+            {
+                "name": "LinkedIn",
+                "url": "https://www.linkedin.com/in/raghul22/"
+            },
+            {
+                "name": "Twitter",
+                "url": "https://twitter.com/raghul22"
+            }
+        ]
+    },
+    "experience": [
+        {
+            "company": "Infinite Computer Solutions Inc",
+            "jobTitle": "Principal Software Engineer in Test",
+            "location": "Rockville, MD",
+            "startDate": "June 2022",
+            "endDate": "Present",
+            "bullets": [
+                "Build infrastructure and automation framework for web and mobileb applications using open source tools and technologies.",
+                "Build a continuous integration/deployment setup for release activities.",
+                "Build and maintain dashboards for team to track project progress and test status.",
+		"Mentor team members in test executions and automation."
+            ]
+        },
+        {
+            "company": "Verizon",
+            "jobTitle": "Principal Software Engineer in Test",
+            "location": "San jose, CA",
+            "startDate": "August 2018",
+            "endDate": "June 2022",
+            "bullets": [
+		"Build productivity tools to improve the team performance.",
+                "Develop automation frameworks for UI automation using Protractor, Selenium, TestNG",
+		"Develop automation frameworks for testing Microservices using Rest Assured",
+		"Write performance using Jmeter and K6"
+		
+            ]
+        },
+        {
+            "company": "Yahoo! Inc",
+            "jobTitle": "Senior Software Engineer in Test",
+            "location": "Sunnyvale, CA",
+            "startDate": "June 2008",
+            "endDate": "August 2018",
+            "bullets": [
+		"Write test cases and mind map for new projects.",
+		"Write test plans and execute it.",
+                "Help the team and guide them in test plans and strategy in execution.",
+		"Responsible for release activities."
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Languages",
+            "items": [
+                "Java", 
+                "JavaScript/TypeScript", 
+                "Nodejs"
+            ]
+        },
+        {
+            "name": "Frameworks & Libraries",
+            "items": [
+                "Selenium",
+                "Appium",
+                "Webdriver",
+                "Protractor",
+                "Testcafe",
+		"Rest Assured",
+		"Zaproxy",
+		"Hygieia",
+                "Jmeter",
+                "K6",
+                "MySQL",
+                "Mongodb",
+                "React", 
+                "ExpressJS"]
+        } 
+    ],
+    "education": [
+        {
+            "institute": "Birla Institute of Technology",
+            "graduationDate": "March 2011",
+            "degree": "Master of science in Software Systems"
+        },
+        {   
+            "institute": "Anna University",
+            "graduationDate": "May 2005", 
+            "degree": "Bachelor of science in Information Technology"
+        }
+    ]
+}
