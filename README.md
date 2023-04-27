@@ -1,1 +1,1 @@
-https://github.com/raghulraj/resume/issues
+https://raghulraj.github.io/resume/
